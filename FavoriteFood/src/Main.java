@@ -11,6 +11,8 @@ public class Main {
 		String s2 = "私の好きな食べ物はすき焼きです。";
 		
 		System.out.println(s2);
+		
+		System.out.println("アイスは知覚過敏で食べるのが遅いですが好きです。");
 	}
 
 }
